@@ -32,7 +32,7 @@ I'm particularly interested in computational protein design, applied ML, and tur
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**query-by-humming-cnn**](https://github.com/TrPavel/query-by-humming-cnn) | Audio classification pipeline — MFCC feature extraction, classical ML vs CNN comparison on 800 recordings | Python · TensorFlow · librosa |
+| [**query-by-humming-cnn**](https://github.com/TrPavel/query-by-humming-classification) | Audio classification pipeline — MFCC feature extraction, classical ML vs CNN comparison on 800 recordings | Python · TensorFlow · librosa |
 | [**uk-climate-analysis**](https://github.com/TrPavel/uk-climate-analysis) | Time-series modelling of warming trends across 37 UK weather stations with bootstrap CIs | Python · statsmodels · pandas |
 | [**bridge-condition-modelling**](https://github.com/TrPavel/bridge-condition-modelling) | Multivariate regression on ~32k Texas bridges — feature engineering, VIF, diagnostics | Python · scikit-learn · pandas |
 | [**lsoa-population-analysis**](https://github.com/TrPavel/lsoa-population-analysis) | Statistical analysis of LSOA population data | Python · pandas · matplotlib |
